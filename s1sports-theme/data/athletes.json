@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Erik Henning",
+    "sport": "golf",
+    "college": "Bakersfield College",
+    "featured": true,
+    "order": 1,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2025-10-18-at-11.49.27.jpeg"
+  },
+  {
+    "name": "Elton Backer",
+    "sport": "golf",
+    "college": "Bakersfield College",
+    "featured": true,
+    "order": 2,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2025-02-24-at-12.06.03-e1790785745577.jpeg"
+  },
+  {
+    "name": "Theodor Kruus",
+    "sport": "golf",
+    "college": "University of South Florida",
+    "featured": true,
+    "order": 3,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2025-05-12-at-19.28.53-1.jpeg"
+  },
+  {
+    "name": "Viktor Bergstedt",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": true,
+    "order": 4,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2026-07-01-at-11.39.45.jpeg"
+  },
+  {
+    "name": "Lisa Noltorp",
+    "sport": "tennis",
+    "college": "College Recruit 2027",
+    "featured": true,
+    "order": 5,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2026-07-29-at-17.18.58.jpeg"
+  },
+  {
+    "name": "Märta Skantze",
+    "sport": "tennis",
+    "college": "College Recruit 2027",
+    "featured": true,
+    "order": 6,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2026-07-28-at-22.56.29-1.jpeg"
+  },
+  {
+    "name": "Love Nyqvist",
+    "sport": "tennis",
+    "college": "College Recruit 2027",
+    "featured": true,
+    "order": 7,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2026-06-29-at-16.25.44.jpeg"
+  },
+  {
+    "name": "Adam Nisell",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": true,
+    "order": 8,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/IMG_2240-2-scaled-e1790786558465.jpeg"
+  },
+  {
+    "name": "Armin Kasumovic",
+    "sport": "tennis",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 9,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/IMG_8390-1-scaled.jpeg"
+  },
+  {
+    "name": "Gustav Lif",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 10,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/MG_4154-scaled.jpg"
+  },
+  {
+    "name": "Isa Nilsson",
+    "sport": "tennis",
+    "college": "Stephen F Austin State",
+    "featured": false,
+    "order": 11,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/09/WhatsApp-Image-2025-08-10-at-21.26.32-e1790786759722.jpeg"
+  },
+  {
+    "name": "Disa Levinsson Olsson",
+    "sport": "tennis",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 12,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-19-at-11.36.50-2.jpeg"
+  },
+  {
+    "name": "Alvin Cato",
+    "sport": "golf",
+    "college": "College Recruit 2028",
+    "featured": false,
+    "order": 13,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-06-08-at-22.05.33-2.jpeg"
+  },
+  {
+    "name": "Svante Almström",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 14,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-29-at-14.40.40.jpeg"
+  },
+  {
+    "name": "Jacob Eisner Sjöberg",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 15,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2025-12-21-at-05.06.02.jpeg"
+  },
+  {
+    "name": "Ludvig Bolin",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 16,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/Skarmavbild-2026-08-21-kl.-12.52.25.png"
+  },
+  {
+    "name": "Malte Wendt",
+    "sport": "golf",
+    "college": "College Recruit 2027",
+    "featured": false,
+    "order": 17,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2025-12-19-at-09.54.54.jpeg"
+  },
+  {
+    "name": "Oscar Tegeback",
+    "sport": "golf",
+    "college": "College Recruit 2028",
+    "featured": false,
+    "order": 18,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-01-26-at-21.17.19.jpeg"
+  },
+  {
+    "name": "Oscar Andreasson",
+    "sport": "golf",
+    "college": "Lander University",
+    "featured": false,
+    "order": 19,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/Oscar-Andreasson.jpg"
+  },
+  {
+    "name": "Eric Nilsson",
+    "sport": "tennis",
+    "college": "Eastern Florida State College",
+    "featured": false,
+    "order": 20,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-06-04-at-20.17.25.jpeg"
+  },
+  {
+    "name": "Olivia Friborg",
+    "sport": "fotboll",
+    "college": "Florida International University",
+    "featured": false,
+    "order": 21,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/Olivia-Friborg.jpg"
+  },
+  {
+    "name": "Linea Bajraliu",
+    "sport": "tennis",
+    "college": "University of Georgia",
+    "featured": false,
+    "order": 22,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/08/WhatsApp-Image-2026-06-16-at-13.37.16.jpeg"
+  },
+  {
+    "name": "Lukas Molander",
+    "sport": "fotboll",
+    "college": "Maryville University",
+    "featured": false,
+    "order": 23,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/05/WhatsApp-Image-2026-01-08-at-15.29.26.jpeg"
+  },
+  {
+    "name": "Alexandra Larsson",
+    "sport": "fotboll",
+    "college": "University of Southern California",
+    "featured": false,
+    "order": 24,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/05/IMG_4514.jpg"
+  },
+  {
+    "name": "Annie Thorkell",
+    "sport": "ovrigt",
+    "college": "Wake Forest University",
+    "featured": false,
+    "order": 25,
+    "local_image": "https://s1sports.se/wp-content/uploads/2026/05/WhatsApp-Image-2026-07-23-at-13.01.56-2-e1790787002101.jpeg"
+  }
+]

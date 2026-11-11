@@ -1,0 +1,20 @@
+name: Check WordPress code
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+      - name: PHP syntax
+        run: find s1sports-theme s1sports-content -name '*.php' -print0 | xargs -0 -n1 php -l
+      - name: JavaScript syntax
+        run: node --check s1sports-theme/assets/mirror.js
+      - name: Verify theme assets
+        run: node scripts/verify.mjs

@@ -1,0 +1,11 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">atleter</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">s1_sport</custom-field>
+    <custom-field action="translate">s1_college</custom-field>
+    <custom-field action="copy">s1_featured</custom-field>
+    <custom-field action="copy">s1_display_order</custom-field>
+  </custom-fields>
+</wpml-config>
